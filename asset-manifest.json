@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gs-workspace/static/css/main.f8be36a4.css",
+    "main.js": "/gs-workspace/static/js/main.9e9497f3.js",
+    "static/js/787.9c6b89a3.chunk.js": "/gs-workspace/static/js/787.9c6b89a3.chunk.js",
+    "index.html": "/gs-workspace/index.html",
+    "main.f8be36a4.css.map": "/gs-workspace/static/css/main.f8be36a4.css.map",
+    "main.9e9497f3.js.map": "/gs-workspace/static/js/main.9e9497f3.js.map",
+    "787.9c6b89a3.chunk.js.map": "/gs-workspace/static/js/787.9c6b89a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8be36a4.css",
+    "static/js/main.9e9497f3.js"
+  ]
+}
